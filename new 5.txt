@@ -1,0 +1,36 @@
+<div id="menu" class="row" style="align-content: center;">
+                <!--Menu de la pagina, modificar según el nombre de su pagina de trabajo CAMBIAR-->
+            <nav id="menuNew" class="navbar bg-light col-sm-12 col-md-12">
+                <ul class="nav nav-pills">
+                    <li class="nav-item">
+                        <a class="nav- active" href="index.html"><img src="img/navbar/icons8-literatura-32.png"/>
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle" data-toggle="dropdown" href=""><img src="img/navbar/icons8-literatura-32.png"/> Quienes Somos</a>
+                        <div class="dropdown-menu">
+                            <a class="dropdown-item" href="CAMBIAR_NOMBRE_PAGINA_DESTINO.html">Visión</a>
+                            <a class="dropdown-item" href="CAMBIAR_NOMBRE_PAGINA_DESTINO.html">Misión</a>
+                            <a class="dropdown-item" href="CAMBIAR_NOMBRE_PAGINA_DESTINO.html">Objetivos Corporaivos</a>
+                        </div>
+                    </li>
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle" data-toggle="dropdown" href=""><img src="img/navbar/icons8-reproducir-en-círculo-32.png"/> Cambiar Texto Visible</a>
+                        <div class="dropdown-menu">
+                            <a class="dropdown-item" href="CAMBIAR_NOMBRE_PAGINA_DESTINO.html">Texto visible del Submenu</a>
+                        </div>
+                    </li>
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle" data-toggle="dropdown" href=""><img src="img/navbar/icons8-historia-de-la-actividad-32.png"/> Cambiar Texto Visible</a>
+                        <div class="dropdown-menu">
+                            <a class="dropdown-item" href="actividad1.html">Texto visible del Submenu</a>
+                        </div>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="autores.html"><img src="img/navbar/icons8-derechos-de-autor-32.png"/>Autores</a>
+                    </li>
+                    <form>
+                        <input class="form-control" type="search" placeholder="Search" aria-label="Search">
+                        <button class="btn btn-success " type="submit">Buscar</button>
+                    </form>
+                </ul>
+            </nav>
+            </div>
