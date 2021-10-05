@@ -1,13 +1,32 @@
 #bannerIndex {
-    border: blueviolet;
+    border-radius: 30px;
 }
 
-nav#menuNew {
-    background-color: #b8b48580 !important;
-    
+.nav-item{
+    background-color:#DDE3D6  !important;
 }
 
-.nav-item.{
-    background-color: #72941580 !important;
-    align-items: center !important;
+.carousel-inner img {
+  display:block;
+  margin:auto;
+  width: 40%;
+  border-radius: 25px;
+}
+
+.carousel-inner li a {
+  border-radius: 15px !important;
+  background: #0c4128 !important; 
+}
+
+.container-fluid {
+    background-color: #dafbe1;
+}
+
+.card-header {
+    background-color: #13653f;
+    color: #DDE3D6;
+}
+
+.card-body p{
+    line-height: 7px;
 }
