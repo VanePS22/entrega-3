@@ -1,8 +1,6 @@
 # Pagina Web Estatica Nuturalife
 
-_Sitio web estático propuesto dentro del desarrollo el ciclo 3 del diplomado de Programación de Mintic, en el cual se aplican parte de los conocimientos adquiridos en el desarrollo de frontend._
-
-Mira **Deployment** para conocer como desplegar el proyecto.
+_Sitio web estático propuesto dentro del desarrollo el ciclo 3 del diplomado de Programación de Mintic, en el cual se aplican parte de los conocimientos adquiridos en el desarrollo de frontend._  
 
 ### Instalación 🔧
 
@@ -10,7 +8,7 @@ _Simplemente se debe clonar el proyecto y ubicar los archivos descargados en la 
 
 ## Construido con 🛠️
 
-_Menciona las herramientas que utilizaste para crear tu proyecto_
+_Las herramientas que se utilizaron para crear el proyecto son:_
 
 * [HTML5](https://developer.mozilla.org/es/docs/Glossary/HTML5) - Frontend
 * [Boostrap](https://getbootstrap.com/docs/5.0/getting-started/introduction/) - Frontend - Libreria para manejar los estilos.
