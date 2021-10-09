@@ -28,5 +28,9 @@
 }
 
 .card-body p{
-    line-height: 7px;
+    line-height: 16px;
+}
+
+.desc-Producto{
+    text-align: justify !important;
 }
