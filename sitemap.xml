@@ -4,6 +4,31 @@
       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
       xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
             http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+<url>
+  <loc>http://132.145.45.57/entrega-3/</loc>
+  <lastmod>2021-10-08T20:21:06+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>http://132.145.45.57/entrega-3/index.html</loc>
+  <lastmod>2021-10-08T20:21:06+00:00</lastmod>
+  <priority>0.90</priority>
+</url>
+<url>
+  <loc>http://132.145.45.57/entrega-3/quienSomos.html</loc>
+  <lastmod>2021-10-08T20:45:28+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://132.145.45.57/entrega-3/organigrama.html</loc>
+  <lastmod>2021-10-08T20:44:48+00:00</lastmod>
+  <priority>0.70</priority>
+</url>
+<url>
+  <loc>http://132.145.45.57/entrega-3/catalogo.html</loc>
+  <lastmod>2021-10-08T20:17:22+00:00</lastmod>
+  <priority>0.60</priority>
+</url>
 
 </urlset>
